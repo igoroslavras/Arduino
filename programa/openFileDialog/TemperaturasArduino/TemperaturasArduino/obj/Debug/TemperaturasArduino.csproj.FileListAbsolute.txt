@@ -1,0 +1,10 @@
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\bin\Debug\TemperaturasArduino.exe.config
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\bin\Debug\TemperaturasArduino.exe
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\bin\Debug\TemperaturasArduino.pdb
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.csprojAssemblyReference.cache
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.Form1.resources
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.Properties.Resources.resources
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.csproj.GenerateResource.cache
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.exe
+D:\Desenvolvimento\arduino\programa\openFileDialog\TemperaturasArduino\TemperaturasArduino\obj\Debug\TemperaturasArduino.pdb

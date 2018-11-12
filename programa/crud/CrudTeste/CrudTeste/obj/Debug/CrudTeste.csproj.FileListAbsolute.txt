@@ -1,0 +1,10 @@
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\bin\Debug\CrudTeste.exe.config
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\bin\Debug\CrudTeste.exe
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\bin\Debug\CrudTeste.pdb
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.csprojAssemblyReference.cache
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.Form1.resources
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.Properties.Resources.resources
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.csproj.GenerateResource.cache
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.exe
+D:\Desenvolvimento\arduino\programa\crud\CrudTeste\CrudTeste\obj\Debug\CrudTeste.pdb
